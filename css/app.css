@@ -119,7 +119,11 @@ li a:hover {
 }
 #photo2{
   float:left;
+<<<<<<< HEAD
   height: 800px;
+=======
+  height: 810px;
+>>>>>>> 3bdcbb33550b953436ae4c2dfe7de3d6c1ad8611
   background-position: center;
   margin-left: 200px;
   margin-top: 30px;
@@ -131,7 +135,11 @@ li a:hover {
 }
 
   #photo7{
+<<<<<<< HEAD
     height: 800px;
+=======
+    height: 830px;
+>>>>>>> 3bdcbb33550b953436ae4c2dfe7de3d6c1ad8611
     margin-left: 200px;
     margin-top: 30px;
   }
